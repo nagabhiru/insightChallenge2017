@@ -4,11 +4,9 @@
 ```
 Program takes the Federal Election Commission data file that contains campaign contribution as input file and emits two files:
 
-    1. medianvals_by_zip.txt: contains running median of contributions, total number of transactions and total amount 
-		of contributions for each recipient and zip code.
+    1. medianvals_by_zip.txt: contains running median of contributions, total number of transactions and total amount of contributions for each recipient and zip code.
 
-    2. medianvals_by_date.txt: every unique combination of date and recipient and the calculated total contributions 
-		and median contribution for that combination.
+    2. medianvals_by_date.txt: every unique combination of date and recipient and the calculated total contributions and median contribution for that combination.
 
 ```
 
